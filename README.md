@@ -1,7 +1,7 @@
 # Library-of-Congress-Classification-Sorter
 
 ## ARRANGE BOOKS IN CALL NUMBER ORDER USING THE LIBRARY OF CONGRESS SYSTEM 
-The implementation follows this [brief guide]. (https://www.libraries.rutgers.edu/rul/staff/access_serv/student_coord/LibConSys.pdf)
+The implementation follows this [brief guide.](https://www.libraries.rutgers.edu/rul/staff/access_serv/student_coord/LibConSys.pdf)
 
 ## Example 
 
@@ -16,17 +16,17 @@ A small sorted file is attached as an example output.
 
 A brief snapshot:
 
-HJ2051.W483 2001
-HJ2053.A1T48 2001
-HJ2053.A1U54 2000
-HJ2053.C3C35 2000
-HJ2053.M2S72 2000
-HJ2053.M2S73 1999
-HJ2053.S724 1999
-HJ2053.T5T44 1999
-HJ2053.W2L44 1999
-HJ2053.W8W96 1999
-HJ2054.C36 1999
+* HJ2051.W483 2001
+* HJ2053.A1T48 2001
+* HJ2053.A1U54 2000
+* HJ2053.C3C35 2000
+* HJ2053.M2S72 2000
+* HJ2053.M2S73 1999
+* HJ2053.S724 1999
+* HJ2053.T5T44 1999
+* HJ2053.W2L44 1999
+* HJ2053.W8W96 1999
+* HJ2054.C36 1999
 HJ2056.5.Q3P76 1999
 HJ2066.M46 1999
 HJ2075.B87 2000
